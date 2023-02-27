@@ -2,7 +2,7 @@
 [`https://namubal78.github.io/`](https://namubal78.github.io/)
 
 ---
-(저는 choiiis님의 Minimal Mistakes theme를 fork해서 사용했습니다. 아래는 choiiis님의 README.md 내용입니다.
+(저는 choiiis님의 Minimal Mistakes theme를 fork해서 사용했습니다. 아래는 choiiis님의 README.md 내용입니다)
 
 ### ▪ 블로그 기본 정보 세팅
 
