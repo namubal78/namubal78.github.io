@@ -7,11 +7,11 @@ comments: false
 
 <p>
 
-          안녕하세요! 
-          사람들에게 쾌적함을 제공하고 싶은 개발자 한영섭입니다.
-
-          잘 듣고 잘 말할 수 있으며,
-          빠르게 학습하고 적용할 수 있습니다.
+          안녕하세요!<br> 
+          사람들에게 쾌적함을 제공하고 싶은 개발자 한영섭입니다.<br>
+          <br>
+          잘 듣고 잘 말할 수 있으며,<br>
+          빠르게 학습하고 적용할 수 있습니다.<br>
           더불어 팀워크에 도움이 되는 협동성을 갖고 있습니다.     
           <br><br>                     
           <b>Education</b>
@@ -37,7 +37,7 @@ comments: false
           etc: Git<br>
           <br>
           <b>Project</b>
-          <br><br>
+          <br>
           [개인] Weather_Project (2023.01.28 ~ 2023.02.01)<br>
           Github: <a href="https://github.com/namubal78/Weather-workspace](https://github.com/namubal78/Weather-workspace)">https://github.com/namubal78/Weather-workspace</a><br>
           <br>

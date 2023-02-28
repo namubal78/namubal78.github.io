@@ -18,11 +18,20 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Test1"
-    url: /categories/Test1/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "Project"
+    children:
+      - title: "BlueIce"
+        url: /categories/BlueIce/
+      - title: "PillSoGood"
+        url: /categories/PillSoGood/
+      - title: "WeatherProject"
+        url: /categories/WeatherProject/
+
+  - title: "Study"
+    children:
+      - title: "WhatIRead"
+        url: /categories/WhatIRead/
+      - title: "CodingTest"
+        url: /categories/CodingTest/
+      - title: "JavaSpring"
+        url: /categories/JavaSpring/
