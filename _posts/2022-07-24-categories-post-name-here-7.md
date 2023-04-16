@@ -7,7 +7,7 @@ categories:
 tags:
   - [WhatIRead, 프로그래밍]
 
-permalink: /WhatIRead/thePassinateProgrammer/
+permalink: /WhatIRead/post-name-here-2/
 
 toc: true
 toc_sticky: true
