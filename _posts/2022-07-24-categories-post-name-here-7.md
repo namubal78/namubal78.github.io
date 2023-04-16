@@ -1,25 +1,4 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
-
-categories:
-  - WhatIRead
-tags:
-  - [tag1, tag2]
-
-permalink: /WhatIRead/post-name-here-2/
-
-toc: true
-toc_sticky: true
-
-date: 2022-07-24
-last_modified_at: 2022-07-24
----
-
-## 🦥 본문
-
-본문은 여기에 ... TEST
----
 title: "[프로그래밍] 프로그래머, 열정을 말하다"
 excerpt: "『프로그래머, 열정을 말하다』 채드 파울러 지음/송우일 옮김 인사이트"
 
@@ -64,7 +43,7 @@ last_modified_at: 2023-04-16
 <br><br>
 
 
-<img src="https://user-images.githubusercontent.com/106037895/232320031-d8e1dcbd-91c2-41fb-ba43-03bf64157dc4.jpg" alt="bookImg" />
+<img src="https://user-images.githubusercontent.com/106037895/232320031-d8e1dcbd-91c2-41fb-ba43-03bf64157dc4.jpg" alt="bookImg" /><br>
 link: <https://www.kyobobook.co.kr/service/profile/information?chrcCode=2000353101>
 <br>
 
